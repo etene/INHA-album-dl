@@ -1,0 +1,7 @@
+# No need to install these to use the script
+flake8
+flake8-comprehensions
+flake8-bugbear
+flake8-builtins
+flake8-isort
+mccabe
